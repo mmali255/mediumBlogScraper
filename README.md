@@ -1,2 +1,2 @@
 # mediumBlogScraper
-# Tech stack used django , bootstrap
+Tech stack used django , bootstrap
