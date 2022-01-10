@@ -16,6 +16,7 @@ Jinja2==2.11.2
 mysql-connector-python==8.0.23
 mysqlclient==2.0.3
 PyMySQL==1.0.2
+pathlib
 requests==2.25.0
 requests-html==0.10.0
 sqlparse==0.4.1
